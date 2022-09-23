@@ -1,6 +1,6 @@
 # ![Icon](https://i.imgur.com/uM98gs9.png) Sum
 
-Checksum file cli | [Download](https://github.com/thesilvaemily/sum/releases) | By: [@thesilvacesar](https://github.com/thesilvaemily)
+Checksum file cli | [Download](https://github.com/thesilvaemily/sum/releases) | By: [@thesilvaemily](https://github.com/thesilvaemily)
 
 ## Example of use
 
