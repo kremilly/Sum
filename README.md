@@ -14,6 +14,7 @@ Checksum file cli | [Download](https://github.com/thesilvacesar/sum/releases) | 
 * CRC32
 * SHA1
 * SHA 224
+* SHA 256
 * SHA 384
 * SHA 512
 * Blake2B
